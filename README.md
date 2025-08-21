@@ -32,7 +32,7 @@ Beyond video editing, I explore the **intersection of creativity and technology*
 
 ## 📂 Featured Projects  
 
-- 🎮 **Minecraft Plugins & Mods** – Enhancing gameplay with Spigot/Arclight plugins.  
+- 🎮 **Minecraft Plugins** – Enhancing gameplay with Spigot plugins.  
 - 💻 **JavaFX Apps** – Tools like an **Animation Manager** and **Muscle Reader** app.  
 - 🎬 **Video Projects** – Motion graphics & cinematic edits (Premiere Pro).  
 
