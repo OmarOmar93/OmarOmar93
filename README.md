@@ -1,23 +1,63 @@
-<h1 align="center">Hi 👋, I'm Omar Hossam</h1>
-<h3 align="center">Java Developer</h3>
+# 👋 Hi, I'm Omar Mohamed  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omaromar93&label=Profile%20views&color=0e75b6&style=flat" alt="omaromar93" /> </p>
+🎬 **Founder @ [Meraki Studios](https://discord.gg/B92sqyGJbF)**  
+💻 **Video Editor | Java Developer | Designer | Game Modder**  
 
-- 🔭 I’m currently working on [WorldChatter](https://github.com/OmarOmar93/WorldChatter)
+---
 
-- 📫 How to reach me **omartemhosma1@gmail.com**
+## 🧑 About Me  
 
-- ⚡ Fun fact **I Edit videos as well**
+Hi! I’m **Omar Mohamed**, born on **May 12, 2006**.  
+I’m a passionate **Video Editor** with over **6 years of experience** in **Adobe Premiere Pro**, and the **Founder of Meraki Studios** — a creative community focused on design, media, and innovation.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/omaromar93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="omaromar93" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/xhwBsuNYWA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/xhwBsuNYWA" height="30" width="40" /></a>
-</p>
+Beyond video editing, I explore the **intersection of creativity and technology**:  
+- 🎮 Developing **Minecraft plugins/mods** (Arclight, Spigot, Bukkit)  
+- 💻 Building **JavaFX desktop apps** (UI tools, animation managers, and utilities)  
+- 🎨 Designing in **Figma** and **Paint.NET**  
+- 🕹️ Background in **Unreal Engine game development**  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omaromar93&show_icons=true&locale=en&layout=compact" alt="omaromar93" /></p>
+## 🛠️ Tech & Tools  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omaromar93&show_icons=true&locale=en" alt="omaromar93" /></p>
+![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Paint.NET](https://img.shields.io/badge/Paint.NET-0082C9?style=for-the-badge&logo=paintdotnet&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)  
+![Minecraft Dev](https://img.shields.io/badge/Minecraft%20Dev-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)  
+![JavaFX](https://img.shields.io/badge/JavaFX-5382A1?style=for-the-badge&logo=openjdk&logoColor=white)  
+
+---
+
+## 📂 Featured Projects  
+
+- 🎮 **Minecraft Plugins & Mods** – Enhancing gameplay with Spigot/Arclight plugins.  
+- 💻 **JavaFX Apps** – Tools like an **Animation Manager** and **Muscle Reader** app.  
+- 🎬 **Video Projects** – Motion graphics & cinematic edits (Premiere Pro).  
+
+---
+
+## 🌐 Connect With Me  
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@omardotcontent)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/omardotsocial)  
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@omardotsocial)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omardotsocial/)  
+
+---
+
+## 💖 Support My Work  
+
+If you’d like to support my journey, you can donate here:  
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/omaomar93)  
+
+---
+
+## 🚀 Highlights  
+
+- 🏗️ Founder of **Meraki Studios**  
+- 🎬 6+ years of **video editing expertise**  
+- 💻 Developer of **JavaFX apps** & **Minecraft plugins**  
+- 🎮 Background in **Unreal Engine game development**  
+- 🌍 Building a **creative community** online  
