@@ -66,10 +66,10 @@ If you’d like to support my journey, you can donate here:
 
 ## 📊 GitHub Stats  
 
-![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmarOmar&show_icons=true&theme=tokyonight)  
+![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmarOmar93&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarOmar&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarOmar93&layout=compact&theme=tokyonight)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=OmarOmar&theme=tokyonight&border_radius=8)  
+![GitHub Streak](https://streak-stats.demolab.com?user=OmarOmar93&theme=tokyonight&border_radius=8)  
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OmarOmar&theme=tokyo-night)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OmarOmar93&theme=tokyo-night)  
