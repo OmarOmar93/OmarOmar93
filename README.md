@@ -61,3 +61,15 @@ If you’d like to support my journey, you can donate here:
 - 💻 Developer of **JavaFX apps** & **Minecraft plugins**  
 - 🎮 Background in **Unreal Engine game development**  
 - 🌍 Building a **creative community** online  
+
+---
+
+## 📊 GitHub Stats  
+
+![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmarOmar&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarOmar&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=OmarOmar&theme=tokyonight&border_radius=8)  
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OmarOmar&theme=tokyo-night)  
