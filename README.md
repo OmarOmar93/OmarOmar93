@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Omar Mohamed  
 
 🎬 **Founder @ [Meraki Studios](https://discord.gg/B92sqyGJbF)**  
-💻 **Video Editor | Java Developer | Designer | Game Modder**  
+💻 **Video Editor | Java Developer | Designer**  
 
 ---
 
@@ -11,7 +11,7 @@ Hi! I’m **Omar Mohamed**, born on **May 12, 2006**.
 I’m a passionate **Video Editor** with over **6 years of experience** in **Adobe Premiere Pro**, and the **Founder of Meraki Studios** — a creative community focused on design, media, and innovation.  
 
 Beyond video editing, I explore the **intersection of creativity and technology**:  
-- 🎮 Developing **Minecraft plugins/mods** (Arclight, Spigot, Bukkit)  
+- 🎮 Developing **Minecraft plugins** (Spigot, Bukkit)  
 - 💻 Building **JavaFX desktop apps** (UI tools, animation managers, and utilities)  
 - 🎨 Designing in **Figma** and **Paint.NET**  
 - 🕹️ Background in **Unreal Engine game development**  
